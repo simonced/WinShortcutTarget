@@ -1,0 +1,3 @@
+[
+	{ "keys": ["F3"], "command": "goto_shortcut_target" }
+]
